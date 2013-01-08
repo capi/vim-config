@@ -1,0 +1,12 @@
+[submodule ".vim/bundle/html5.vim"]
+	path = .vim/bundle/html5.vim
+	url = https://github.com/othree/html5.vim.git
+[submodule ".vim/bundle/play2vim"]
+	path = .vim/bundle/play2vim
+	url = https://github.com/gre/play2vim.git
+[submodule ".vim/bundle/vim-scala"]
+	path = .vim/bundle/vim-scala
+	url = https://github.com/derekwyatt/vim-scala.git
+[submodule ".vim/bundle/vundle"]
+	path = .vim/bundle/vundle
+	url = https://github.com/gmarik/vundle.git
