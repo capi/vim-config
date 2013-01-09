@@ -12,8 +12,8 @@ How to install
     cd $HOME/github/
     git clone https://github.com/capi/vim-config.git
     cd vim-config
-    git submodules init
-    git submodules update
+    git submodule init
+    git submodule update
     
     cd $HOME
     mkdir .vim.bak
